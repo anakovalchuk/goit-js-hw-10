@@ -37,14 +37,6 @@ label {
    border: 1px solid #000;
 }
 
-legend {
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 150%;
-  letter-spacing: 0.04em;
-  color: #2e2f42;
-}
-
 fieldset {
   margin-bottom: 24px;
   width: 360px;
